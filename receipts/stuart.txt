@@ -1,6 +1,0 @@
-Receipt for stuart
-Address: efwefew
-------------------------------
-Book A               $15.99
-------------------------------
-Total                $15.99

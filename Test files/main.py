@@ -104,7 +104,7 @@ class Bookshop:
         name = input("Enter your name: ")
         address = input("Enter your address: ")
         customer = Customer(name, address)
-
+        # Shamreena
         while True:
             self.show_food_menu()
             self.show_food_specials()
@@ -169,6 +169,6 @@ class Bookshop:
 
 
 if __name__ == "__main__":
-    # Create and instance of the bookshop class
+    # Create and instance of the bookshop
     app = Bookshop()
     app.main()

@@ -1,0 +1,7 @@
+Receipt for Frank
+Address: example
+------------------------------
+Winnie the Pooh      $5.00
+Wine                 $5.00
+------------------------------
+Total                $10.00

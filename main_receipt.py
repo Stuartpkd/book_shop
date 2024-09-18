@@ -142,6 +142,7 @@ class Bookshop:
         # Add the customer to the list
         self.customers.append(customer)
 
+        # Shmareena
         while True:
             # Show both food menu and books for customers to order from
             self.show_food_menu()

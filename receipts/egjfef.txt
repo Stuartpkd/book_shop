@@ -1,7 +1,0 @@
-Receipt for egjfef
-Address: ewfwewf
-------------------------------
-Book A               $15.99
-Soup                 $4.50
-------------------------------
-Total                $20.49
